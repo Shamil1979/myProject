@@ -1,0 +1,32 @@
+{
+	"folders": {},
+	"connections": {
+		"mysql8-17b73dc1997-5ecd6529ba8ff90f": {
+			"provider": "mysql",
+			"driver": "mysql8",
+			"name": "Shamil_Project",
+			"save-password": true,
+			"read-only": false,
+			"configuration": {
+				"host": "localhost",
+				"port": "3306",
+				"database": "Shamil_Project",
+				"url": "jdbc:mysql://localhost:3306/Shamil_Project",
+				"type": "dev",
+				"auth-model": "native",
+				"handlers": {}
+			}
+		}
+	},
+	"connection-types": {
+		"dev": {
+			"name": "Development",
+			"color": "255,255,255",
+			"description": "Regular development database",
+			"auto-commit": true,
+			"confirm-execute": false,
+			"confirm-data-change": false,
+			"auto-close-transactions": false
+		}
+	}
+}
