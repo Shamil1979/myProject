@@ -1,12 +1,24 @@
 body {
     background-color: lightskyblue;
+    text-align: center;
+    background-image: url(./Assets/background.jpg);
+    background-repeat: no-repeat;
+    /* background-size: 2010px; */
+    background-size: cover;
+
 }
 
-h1 {
+.spacing-box {
+    text-align: center;
+    padding-bottom: 10%;
+    color:white;
+}
+
+.name, .occupation, .tech-icons {
+    text-align: center;
     color: white;
 }
 
-bi {
-    color: black;
-    size: 3 cm;
+img {
+    fill: black;
 }
