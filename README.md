@@ -1,4 +1,4 @@
-# myProject - is just my project to learn things 
+# Landing Page  
 
-### do nothing 
+### Basic HTML, CSS, JS
 
